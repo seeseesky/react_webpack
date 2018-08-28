@@ -1,5 +1,9 @@
 # React with Webpack
-React starter kit running on Webpack
+React starter kit running on Webpack.
+Implemented:
+- Sass
+- File loader
+- URL loader
 
 ## How to install
 `git clone https://github.com/seeseesky/react_webpack.git`
