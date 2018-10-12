@@ -4,6 +4,7 @@ Implemented:
 - Sass
 - File loader
 - URL loader
+- Redux
 
 ## How to install
 `git clone https://github.com/seeseesky/react_webpack.git`
